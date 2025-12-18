@@ -1,50 +1,69 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
+### DATE:  18-12-2025                                                                          
+### REGISTER NUMBER : 25016378
+### Aim: To write the prompt for the following prompt types and compare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
 
 ### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
 
 Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
 
-Main Objectives:
+1. Comparative Analysis Prompt <br> 
+Prompt:Compare AC and DC current in a table. <br>
+   Ans: <br>
+   
+   | Feature           | AC (Alternating Current)         | DC (Direct Current)                  |
+   | ----------------- | -------------------------------- | ------------------------------------ |
+   | Direction of flow | Changes direction periodically   | Flows in one direction only          |
+   | Magnitude         | Varies with time                 | Constant                             |
+   | Source            | Power stations, generators       | Batteries, solar cells               |
+   | Transmission      | Efficient for long distances     | Less efficient for long distances    |
+   | Frequency         | Has frequency (e.g., 50 Hz)      | Zero frequency                       |
+   | Common uses       | Home and industrial power supply | Electronic devices, charging systems |
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+Evaluation: <br>
+Quality: High <br>
+Accuracy: High <br>
+Depth: Structured comparison <br> 
 
-Comparative Analysis Prompt
-Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
-•	"Compare and contrast deep learning and machine learning."
-•	"How do renewable and non-renewable energy sources differ?"
+2. Experiential Perspective Prompt <br> 
+Prompt: As a student, describe your experience with online learning. <br>
+   Ans: As a student, my experience with online learning has been flexible and convenient, allowing me to attend classes from home and learn at my own pace. It helped me access recorded               lessons and digital resources easily. However, staying focused for long hours and limited interaction with teachers and classmates were challenging. Overall, it was useful but works           best when combined with regular classroom learning. <br> 
+Evaluation: <br> 
+Quality: High <br>
+Accuracy: Context-based <br>
+Depth: Moderate, experiential <br> 
 
-Experiential Perspective Prompt:
-> 	“As a software engineer, what are the benefits of using cloud computing in your projects?”
->  “From a student’s perspective, describe the challenges of online learning.”
+3. Everyday Functioning Prompt <br>
+Prompt: Explain how a refrigerator works in simple terms.<br>
+   Ans: A refrigerator works by removing heat from inside and releasing it outside. A cooling fluid absorbs heat from the food compartment, making it cold. This heat is then released at the           back of the refrigerator. The process keeps the food fresh and cool. <br> 
+Evaluation: <br>
+Quality: High <br>
+Accuracy: High <br>
+Depth: Basic, easy to understand <br> 
 
-Everyday Functioning Prompts:
-*	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
-*	 	“How is encryption used in daily life when sending WhatsApp messages?”
+4. Universal Prompt Structure <br>
+Prompt: Explain photosynthesis, its process, and importance briefly. <br>
+   Ans: Photosynthesis is the process by which green plants make their own food using sunlight, carbon dioxide, and water. Chlorophyll in the leaves absorbs sunlight to produce glucose and            oxygen. This process is important because it provides food for plants and releases oxygen needed for life on Earth. <br> 
+Evaluation: <br>
+Quality: High <br>
+Accuracy: High <br>
+Depth: Balanced <br>
 
-Universal Prompt Structures:
-^ 	“Explain [concept] in simple terms with an example.”
-^  “Explain the process of [task] step by step.”
+5. Prompt Refinement <br>
+Broad Prompt: Explain climate change. <br>
+         Ans: Climate change refers to long-term changes in Earth’s temperature and weather patterns, mainly caused by human activities like burning fossil fuels and deforestation. These                    activities increase greenhouse gases in the atmosphere, which trap heat and lead to global warming. Climate change results in rising temperatures, melting ice, sea-level rise,                 and more extreme weather events. <br> <br>
+Refined Prompt: Explain climate change in 4–5 sentences focusing on causes and effects. <br>
+           Ans: Climate change is the long-term change in Earth’s temperature and weather patterns. It is mainly caused by human activities such as burning fossil fuels, deforestation, and                    industrial pollution, which increase greenhouse gases in the atmosphere. These gases trap heat and lead to global warming. The effects include rising temperatures, melting                     glaciers, rising sea levels, and more frequent extreme weather events like floods and droughts. Climate change also affects agriculture, ecosystems, and human health. <br> 
+Evaluation: <br>
+Refined prompt gives clearer and more focused output. <br> 
 
-Prompt Size Limitations:
-&  	“Translate this 5000-word essay into Tamil.”
-→ Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
-&  “Give me 50 examples of AI applications.”
-→ Adjust for size: “Give me 10 AI applications at a time.”
+6. Prompt Size Limitation <br>
+Prompt: Define artificial intelligence in one sentence. <br>
+   Ans: Artificial intelligence is the ability of machines to perform tasks that normally require human intelligence, such as learning, reasoning, and decision-making. <br> 
+Evaluation: <br>
+Quality: High <br>
+Accuracy: High <br>
+Depth: Limited due to size constraint <br> 
 
-
-
-# Result: The various types of Prompts are executed successfully with generated the report.
+# Result: 
+The various types of Prompts are executed successfully with generated the report.
